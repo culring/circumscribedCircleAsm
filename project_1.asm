@@ -15,7 +15,6 @@ header: 		.byte # bitmap header
 	      		0x13, 0x0B, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 filename: 		.space 255 # buffer containing name of desired location of a file to save 
 points:			.space 24 # coordinates of the triangle
-returnAddress: 		.word 0x0 # space containing a return address
 pixelArrayAddress:	.word 0x0 # an address of a pixel array 
 pixelArraySize:		.word 0x0 # size of a pixel array
 width:			.word 0x0 # width of the canvas
