@@ -8,4 +8,6 @@ Following algorithms used:
 
 Sample output:
 
-![sample](https://github.com/culring/circumscribedTriangleAsm/blob/master/sample.bmp)
+<p align="center">
+<img src="https://github.com/culring/circumscribedTriangleAsm/blob/master/sample.bmp" alt="sample image">
+</p>
