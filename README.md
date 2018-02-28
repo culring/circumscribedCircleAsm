@@ -1,6 +1,6 @@
 # circumscribedTriangleAsm
 
-The project written fully in MIPS assembly language that draws a triangle as well as its circumcircle with given coordinates of triangle's vertices (only 24-bit bitmaps supported).
+Fully written in MIPS assembly language project that enables drawing a triangle with its circumcircle given coordinates of triangle's vertices (only 24-bit bitmaps supported).
 
 Following algorithms used:
   * Bresenham's line algorithm for drawing a triangle
