@@ -4,7 +4,7 @@ Fully written in MIPS assembly language project that enables drawing a triangle 
 
 Following algorithms used:
   * Bresenham's line algorithm for drawing a triangle
-  * midpoint circle algorihtm for drawing a circle. 
+  * midpoint circle algorihtm for drawing a circumcircle. 
 
 Sample output:
 
